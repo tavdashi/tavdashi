@@ -1,5 +1,5 @@
 ## Hi, I'm Ananya!
-💻 A Computer Science student.<br/>
+💻 A Computer Science & Engineering student.<br/>
 📖 Interested in research related to the field of Computer Science.
 
 
